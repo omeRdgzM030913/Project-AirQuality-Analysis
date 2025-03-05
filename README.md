@@ -29,3 +29,5 @@ The regression model without PCA obtained an acceptable adjusted R² in training
 By incorporating PCA, the training adjusted R² decreased, but in some cases less overfitting is observed. The use of PCA helped to isolate the strong correlation between NO, NO2 and NOX.
 With K-Means, a K = 3 showed better silhouette coefficient (∼0.37), suggesting clearer separations between periods/zones of higher and lower pollution.
 
+
+This project demonstrates my technical competence in the application of multivariate methods, predictive modelling, and decision-making based on statistical understanding and empirical validation of the results. The ability to develop, evaluate and optimise different schemes (imputations, linear regression, PCA and clustering) reflects my versatility as a Data Scientist, as well as my interest in providing analytical solutions to environmental problems with real impact.
